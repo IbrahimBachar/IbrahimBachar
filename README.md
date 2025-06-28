@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ibrahim Abdraman Bachar 👋</h1>
 
 <p align="center">
-  <em>Junior Software Developer | Backend Learner at ALX | Full-Stack Enthusiast | Tech-for-Africa Advocate</em>
+  <em>Junior Software Developer | Certified ALX Frontend Developer | Backend Learner at ALX | Full-Stack Enthusiast | Tech-for-Africa Advocate</em>
 </p>
 
 ---
@@ -61,7 +61,6 @@ I'm actively looking to collaborate on **real-world projects**, gain experience 
 - 📧 **Email**: ibrahimabdraman43@gmail.com  
 - 📱 **WhatsApp**: +250790927453 
 - 🌍 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ibrahim-bachar-4464872b7/)  
-- 💼 **Portfolio** *(if any)*: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
